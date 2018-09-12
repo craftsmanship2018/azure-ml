@@ -17,7 +17,7 @@ Initial task will be to migrate the existing machine learning model into Azure
 
 Then they will need to access the model and send a request to do some predictions.
 
-them odel will need to be enhanced so it is more accurate and then deployed back into azure.
+The model will need to be enhanced so it is more accurate and then deployed back into azure.
 
 A follow up call should be performed to make sure the new model is in operation.
 
