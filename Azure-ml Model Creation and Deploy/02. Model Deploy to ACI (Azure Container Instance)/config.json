@@ -1,0 +1,5 @@
+{
+  "subscription_id": "subscriptionID here",
+  "resource_group": "resource group here",
+  "workspace_name": "machine learn workspace name here"
+}
