@@ -2,17 +2,15 @@
 
 ## Story
 
-A car dealership has invested in a new machine learning model to help with pricing vehicles.
+Cars R Us have invested in a new machine learning model to help them with pricing vehicles.
 
-They have a simple web front end and a poorly trained Linear Regression pricing algorithm which has learnt its information from some sample car data.
+They have a simple web front end and a poorly trained Linear Regression pricing algorithm which has learnt its information from some sample car data they have.
 
-The dealership could really use your help to get their web app into a Dev-Ops CI/CD pipeline, deploy their machine learning model and have the web app package itself up with the latest version of the model.
+The dealership could really use your help to get their web app into a Dev-Ops CI/CD pipeline, deploy their machine learning model and have the web app package itself up with the latest version of the model as currently it is cumbersome and fraught with difficulties when trying to do a release.
 
-They have also realised that the model is not quite as accurate as it could be and they are certain they are losing money hand over fist.
+They have also realised that their model is not quite as accurate as it could be and they are certain they are losing money hand over fist.
 
 It has also been requested a new model is trained up and deployed without adversely affecting their business.
-
-
 
 
 ## Tasks for participants
